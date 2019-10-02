@@ -9,9 +9,12 @@ img {
 }
 
 h1, h2 {
-  colour: #5d8432;
+  color: #5d8432;
   text-transform: uppercase;
+  font-family: Georgia, serif;
+  font-family: "Patua One", sans-serif;
 }
+
 figcaption {
   font-size: .8rem;
   font-style: italic;
@@ -22,6 +25,7 @@ nav {
   font-size: 1.125rem;
   font-weight: bold;
   font-family: Georgia, serif;
+  font-family: "Patua One", sans-serif;
 }
 
 nav ol {
